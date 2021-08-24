@@ -1,0 +1,23 @@
+{
+  "name": "Projeto_Inicial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cep.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLRRios/Projeto_Inicial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JLRRios/Projeto_Inicial/issues"
+  },
+  "homepage": "https://github.com/JLRRios/Projeto_Inicial#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
